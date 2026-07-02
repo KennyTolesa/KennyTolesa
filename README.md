@@ -57,7 +57,7 @@ I am a Full-Stack & Automation Developer. I build highly responsive, type-safe w
 ---
 
 ### 📫 Connect With Me
-* **Telegram:** [@reveire_Exe](https://t.me/reveire_Exe)
+* **Telegram:** [@reverie_Exe](https://t.me/reverie_Exe)
 * **Email:** [Kienatolesa@gmail.com](mailto:Kienatolesa@gmail.com)
 
 <p align="center">
