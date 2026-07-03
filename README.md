@@ -33,7 +33,7 @@ A set of Telegram bots built for daily use:
 - **Media Downloader Bot** — TikTok/YouTube downloads
 - **File Converter Bot** — video, audio, image, and PDF conversion
 
-`Python` `python-telegram-bot` `yt-dlp` `ffmpeg` `Redis`
+`Python` `FastAPI` `python-telegram-bot` `yt-dlp` `ffmpeg` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
