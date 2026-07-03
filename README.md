@@ -118,20 +118,7 @@ More tools and experiments in the pipeline — check back for updates as repos g
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KennyTolesa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyTolesa&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyTolesa&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%"/>
-
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KennyTolesa&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyTolesa&theme=radical&hide_border=true" width="60%"/>
 
 </div>
 
