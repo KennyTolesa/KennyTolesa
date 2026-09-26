@@ -39,8 +39,6 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KennyTolesa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KennyTolesa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
